@@ -31,7 +31,13 @@
 
 |||
 |---|---|
-|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=younhwan0903)](https://solved.ac/younhwan0903)|![Younhwan97's GitHub stats](https://github-readme-stats.vercel.app/api?username=younhwan97&theme=transparent&show_icons=true)|
+|||
 
+<p align="center">
+
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=younhwan0903)](https://solved.ac/younhwan0903)&nbsp;
+  ![Younhwan97's GitHub stats](https://github-readme-stats.vercel.app/api?username=younhwan97&theme=transparent&show_icons=true)&nbsp;
+
+</p>
 
 
