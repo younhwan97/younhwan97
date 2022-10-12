@@ -1,4 +1,4 @@
-<h2>Tech Stack</h2>
+<h2><strong>Tech Stack</strong></h2>
 <h4>Platforms & Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=PUG&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>&nbsp
 </p>
-<h4>Tools</h4>
+<h4><strong>Tools</strong></h4>
 <p>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>&nbsp
