@@ -29,9 +29,5 @@
 
 <h2>Activity</h2>
 
-<p>
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=younhwan0903"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=younhwan97&theme=transparent&show_icons=true" width="50%" height="100%"/>
-
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=younhwan97&theme=transparent&show_icons=true" width="60%"/> &nbsp;
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=younhwan0903"/>
