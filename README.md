@@ -1,4 +1,4 @@
-<h2>Tech Stack</h2>
+<h2>Tech Stack 🔥</h2>
 <h4>Platforms & Languages</h4>
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp 
@@ -27,7 +27,7 @@
 
 <br/>
 
-<h2>Activity</h2>
+<h2>Activity 🏃🏻</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=younhwan97&theme=transparent&show_icons=true" width="55%"/> &nbsp;
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=younhwan0903"/>
