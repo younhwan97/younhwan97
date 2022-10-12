@@ -29,6 +29,9 @@
 
 <h2>Activity</h2>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=younhwan0903)](https://solved.ac/younhwan0903)
+|||
+|---|---|
+|[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=younhwan0903)](https://solved.ac/younhwan0903)|![Younhwan97's GitHub stats](https://github-readme-stats.vercel.app/api?username=younhwan97&theme=transparent&show_icons=true)|
 
-![Younhwan97's GitHub stats](https://github-readme-stats.vercel.app/api?username=younhwan97&theme=transparent&show_icons=true)
+
+
