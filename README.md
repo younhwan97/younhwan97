@@ -24,3 +24,7 @@
   <img src="https://img.shields.io/badge/WebStorm-ffffff?style=flat-square&logo=webstorm&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/Visual Stuido Code-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>&nbsp
 </p>
+
+![Younhwan97's GitHub stats](https://github-readme-stats.vercel.app/api?username=younhwan97&theme=transparent&show_icons=true)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=younhwan0903)](https://solved.ac/younhwan0903)
