@@ -27,7 +27,16 @@
 
 <br/>
 
+<h2>Certificate</h2>
+
+<img src="https://user-images.githubusercontent.com/78298663/195604673-aa582923-4c41-4714-8363-3fc9b99af5d8.png" width="150px"/>
+
+<br/>
+
 <h2>Activity</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=younhwan97&theme=transparent&show_icons=true" width="55%"/>&nbsp;
 <a href="https://solved.ac/profile/younhwan0903"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=younhwan0903"/></a>
+
+
+ 
