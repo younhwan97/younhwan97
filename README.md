@@ -27,7 +27,7 @@
 
 <br/>
 
-<h2>🚵‍♀️ Activity</h2>
+<h2>🚴🏻‍♂️ Activity</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=younhwan97&theme=transparent&show_icons=true" width="55%"/>&nbsp;
 <a href="https://solved.ac/profile/younhwan0903"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=younhwan0903"/></a>
