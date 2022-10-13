@@ -36,4 +36,5 @@
 
 <h2>🏅 Certificate</h2>
 
-<img src="https://user-images.githubusercontent.com/78298663/195604673-aa582923-4c41-4714-8363-3fc9b99af5d8.png" width="150px"/>
+<a href="https://www.credly.com/badges/f71f0e23-565c-4d69-b450-c6d773fcb41d/public_url"><img src="https://user-images.githubusercontent.com/78298663/195604673-aa582923-4c41-4714-8363-3fc9b99af5d8.png" width="150px"/>
+</a>
