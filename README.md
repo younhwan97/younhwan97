@@ -22,7 +22,7 @@
 
 ## **Study**
 
-- [안드로이드 Jetpack](https://github.com/younhwan97?tab=repositories) - (22.11.22 ~)
+- [안드로이드 Jetpack](https://github.com/younhwan97/android-jetpack-study) - (22.11.22 ~)
 - [알고리즘 스터디](https://github.com/younhwan97/algorithm-practice) - (22.05.27 ~ )
 
 <br/>
