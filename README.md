@@ -4,7 +4,7 @@
 
 ### Hello, I'm Younhwan Jo!
 
-- I am currently studying kotlin based **Android**
+- I am currently studying <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> based <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 - Because I'm into the charm of mobile that can provide services at the **closest location to users**
 - I am interested in **clean code** and the **latest technology** to provide the best service.
 
