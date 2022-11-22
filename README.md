@@ -39,10 +39,10 @@
 
 <table style="width: "100%" !important;">
   <tr>
-    <td valign="top" width="150px" height="300px">
+    <td valign="top" width="20%">
       <img src="https://user-images.githubusercontent.com/78298663/203236529-9a463cfa-d991-4fd1-9610-dedad183ba3b.png" align="left" style="width: 98%" />
     </td>
-    <td valign="top" width="150px" height="300px">
+    <td valign="top" width="20%">
       <img src="https://user-images.githubusercontent.com/78298663/195604673-aa582923-4c41-4714-8363-3fc9b99af5d8.png" align="left" style="width: 98%" />
     </td>
   </tr>
