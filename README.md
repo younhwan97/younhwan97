@@ -10,8 +10,8 @@
 
 | 기간 | 활동 | 내용     |
 |:----|:---------|:--------|
-| 2022.11.15 ~ 2022.11.18 | [kakao x goorm] 9oormthon | 카카오 클라우드와 GDS(Goorm Design System) 교육 및 실습 후 해커톤 진행 <br><br> **프로젝트명** : [도롱도롱](https://github.com/dorongdorong2022) <br> - 대상 수상
-| 2021.12.27 ~ 2022.05.30 | 동네마트 앱 개발부터 출시까지 | 부모님께서 운영하시는 마트에서 모바일을 통한 배달 서비스를 제공하기 위해 만들어진 앱 서비스 <br><br> **프로젝트명**: [HappyBuyer](https://github.com/younhwan97/happy-buyer-app) <br> https://play.google.com/store/apps/details?id=kr.co.younhwan.happybuyer|
+| 2022.11.15 ~ 2022.11.18 | [kakao x goorm] <br/> 9oormthon | 카카오 클라우드와 GDS(Goorm Design System) 교육 및 실습 후 해커톤 진행 <br><br> **프로젝트명** : [도롱도롱](https://github.com/dorongdorong2022) <br> - 대상 수상
+| 2021.12.27 ~ 2022.05.30 | 동네마트 앱 <br/> 개발부터 출시까지 | 부모님께서 운영하시는 마트에서 모바일을 통한 배달 서비스를 제공하기 위해 만들어진 앱 서비스 <br><br> **프로젝트명**: [HappyBuyer](https://github.com/younhwan97/happy-buyer-app) <br> https://play.google.com/store/apps/details?id=kr.co.younhwan.happybuyer|
 
 <br/>
 
