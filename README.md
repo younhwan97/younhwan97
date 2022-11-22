@@ -1,40 +1,49 @@
-<h2>🔨 Tech Stack</h2>
-<h4>Platforms & Languages</h4>
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"/>&nbsp; 
-  <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>&nbsp; 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=PUG&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>&nbsp;
-</p>
-<h4>Tools</h4>
-<p>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/WebStorm-ffffff?style=flat-square&logo=webstorm&logoColor=black"/>&nbsp
-  <img src="https://img.shields.io/badge/Visual Stuido Code-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>&nbsp
-</p>
-
-<br/>
-
-<h2>🚴🏻‍♂️ Activity</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=younhwan97&theme=transparent&show_icons=true" width="55%"/>&nbsp;
-<a href="https://solved.ac/profile/younhwan0903"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=younhwan0903"/></a>
-
-<br/>
-
-<h2>🏅 Certificate</h2>
-
-<a href="https://www.credly.com/badges/f71f0e23-565c-4d69-b450-c6d773fcb41d/public_url"><img src="https://user-images.githubusercontent.com/78298663/195604673-aa582923-4c41-4714-8363-3fc9b99af5d8.png" width="150px"/>
+<a href="mailto:younhwan0903@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>
+
+### Hello, I'm Younhwan Jo!
+
+<br/>
+
+## **Activity**
+
+| 기간 | 활동 | 내용     |
+|:----|:---------|:--------|
+| 2022.11.15 ~ 2022.11.18 | [kakao x goorm] 9oormthon | 카카오 클라우드와 GDS(Goorm Design System) 교육 및 실습 후 해커톤 진행 <br><br> **프로젝트명** : [도롱도롱](https://github.com/dorongdorong2022) <br> - 대상 수상
+| 2021.12.27 ~ 2022.05.30 | 동네마트 앱 개발부터 출시까지 | 부모님께서 운영하시는 마트에서 모바일을 통한 배달 서비스를 제공하기 위해 만들어진 앱 서비스 <br><br> **프로젝트명**: [HappyBuyer](https://github.com/younhwan97/happy-buyer-app) <br> https://play.google.com/store/apps/details?id=kr.co.younhwan.happybuyer|
+
+<br/>
+
+## **Study**
+
+
+<br/>
+
+## **Github Stats**
+
+<table style="width: "100%" !important;">
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=younhwan97&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 98%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younhwan97&hide_border=true&layout=compact&hide=html,ruby,tex,scss,shell" align="left" style="width: 98%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## **Award & Certificate**
+
+<table style="width: "100%" !important;">
+  <tr>
+    <td valign="top" height="250px">
+      <img src="https://user-images.githubusercontent.com/78298663/203236529-9a463cfa-d991-4fd1-9610-dedad183ba3b.png" align="left" style="width: 98%" />
+    </td>
+    <td valign="top" height="250px">
+      <img src="https://user-images.githubusercontent.com/78298663/195604673-aa582923-4c41-4714-8363-3fc9b99af5d8.png" align="left" style="width: 98%" />
+    </td>
+  </tr>
+</table>
