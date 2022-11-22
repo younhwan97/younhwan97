@@ -4,6 +4,10 @@
 
 ### Hello, I'm Younhwan Jo!
 
+- I'm studying **Android**
+- Because I'm into the charm of mobile that can provide services at the **closest location to users**
+- I am interested in **clean code** and the **latest technology** to provide the best service.
+
 <br/>
 
 ## **Activity**
