@@ -45,5 +45,11 @@
     <td valign="top" width="20%">
       <img src="https://user-images.githubusercontent.com/78298663/195604673-aa582923-4c41-4714-8363-3fc9b99af5d8.png" align="left" style="width: 98%" />
     </td>
+    <td valign="top" width="20%">
+    </td>
+    <td valign="top" width="20%">
+    </td>
+    <td valign="top" width="20%">
+    </td>
   </tr>
 </table>
