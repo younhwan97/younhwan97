@@ -1,5 +1,5 @@
 <a href="mailto:younhwan0903@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>
 
 ### Hello, I'm Younhwan Jo!
@@ -39,3 +39,7 @@
     </td>
   </tr>
 </table>
+
+<div align="right" width="50%">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyounhwan97&count_bg=%230095D5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
+</div>
