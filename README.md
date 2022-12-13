@@ -22,8 +22,9 @@
 
 ## **Study**
 
-- [안드로이드 Jetpack](https://github.com/younhwan97/android-jetpack-study) - (22.11.22 ~)
-- [알고리즘 스터디](https://github.com/younhwan97/algorithm-practice) - (22.05.27 ~ )
+- [안드로이드 Jetpack Compose](https://github.com/younhwan97/android-jetpack-compose-practice) - (22.12.12 ~ )
+- [안드로이드 Jetpack](https://github.com/younhwan97/android-jetpack-study) - (22.11.22 ~ )
+- [알고리즘 스터디](https://github.com/younhwan97/algorithm-practice) - (22.05.27 ~ ) 
 
 <br/>
 
@@ -31,10 +32,10 @@
 
 <table style="width: "100%" !important;">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" height="100%">
       <img src="https://github-readme-stats.vercel.app/api?username=younhwan97&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 98%" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" height="100%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younhwan97&hide_border=true&layout=compact&hide=html,ruby,tex,scss,shell" align="left" style="width: 98%" />
     </td>
   </tr>
