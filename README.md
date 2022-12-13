@@ -1,5 +1,5 @@
-<a href="mailto:younhwan0903@gmail.com" target="_blank">
-  <img src=https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
+<a href="mailto:younhwan0903@naver.com" target="_blank">
+  <img src=https://img.shields.io/badge/mail-03C75A?&style=for-the-badge&logo=naver&logoColor=white alt=Gmail style="margin-bottom: 5px;" />
 </a>
 
 ### Hello, I'm Younhwan Jo!
