@@ -2,7 +2,7 @@
   <img src=https://img.shields.io/badge/mail-03C75A?&style=for-the-badge&logo=naver&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>
 
-### Hello, I'm Younhwan Jo!
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, I'm Younhwan Jo!
 
 - I am currently studying <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> based <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 - Because I'm into the charm of mobile that can provide services at the **closest location to users**
