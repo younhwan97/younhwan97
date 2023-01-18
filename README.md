@@ -1,15 +1,12 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Android developer, Younhwan Jo
+## 조윤환
+#### Mobile App Developer 
+> AOS, Kotlin
 
-<br/>
-
+**1997.09.03**  
 - I am currently studying <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> based <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-
 - Because I'm into the charm of mobile that can provide services at the **closest location to users**
-
 - I am interested in **clean code** and the **latest technology** to provide the best service.
-
 - All of my projects are available at [notion portfolio](https://younhwan97.notion.site/a8c6f053930445259dcae6aa364036f7)
-
 -  How to reach me younhwan0903@naver.com
 
 <!-- <a href="mailto:younhwan0903@naver.com" target="_blank">
