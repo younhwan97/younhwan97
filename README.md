@@ -1,16 +1,22 @@
-<a href="mailto:younhwan0903@naver.com" target="_blank">
-  <img src=https://img.shields.io/badge/mail-03C75A?&style=for-the-badge&logo=naver&logoColor=white alt=mail style="margin-bottom: 5px;" />
-</a>
-
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello, I'm Younhwan Jo!
 
 - I am currently studying <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> based <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 - Because I'm into the charm of mobile that can provide services at the **closest location to users**
 - I am interested in **clean code** and the **latest technology** to provide the best service.
+- All of my projects are available at [notion portfolio](https://younhwan97.notion.site/a8c6f053930445259dcae6aa364036f7)
+-  How to reach me younhwan0903@naver.com
 
 <br/>
 
-## **Activity**
+
+
+
+
+<!-- <a href="mailto:younhwan0903@naver.com" target="_blank">
+  <img src=https://img.shields.io/badge/mail-03C75A?&style=for-the-badge&logo=naver&logoColor=white alt=mail style="margin-bottom: 5px;" />
+</a> -->
+
+<!-- ## **Activity**
 
 | 기간 | 활동 | 내용     |
 |:----|:---------|:--------|
@@ -39,4 +45,4 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=younhwan97&hide_border=true&layout=compact&hide=html,ruby,tex,scss,shell" align="left" style="width: 98%" />
     </td>
   </tr>
-</table>
+</table> -->
